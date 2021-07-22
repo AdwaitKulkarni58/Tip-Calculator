@@ -1,0 +1,72 @@
+body {
+    background-image: linear-gradient(to right, lightblue, lightgreen, darkgray);
+}
+
+.header {
+    text-align: center;
+    font-size: 5rem;
+    font-family: Georgia, Calibri, sans-serif;
+    color: darkred;
+    padding: 2%;
+    font-weight: bold;
+}
+
+.container {
+    text-align: center;
+}
+
+.first-row {
+    font-weight: bold;
+    padding: 30px;
+    font-size: 2.5rem;
+    color: rgba(0, 0, 0, 1);
+}
+
+.second-row {
+    font-weight: bold;
+    padding: 30px;
+    font-size: 2.5rem;
+    color: rgba(0, 0, 0, 1);
+}
+
+input {
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: Montserrat, Arial, sans-serif;
+    padding: 10px;
+    margin: 10px;
+}
+
+button {
+    font-weight: bold;
+    font-size: 2rem;
+    border-radius: 30px;
+    cursor: pointer;
+    background-color: teal;
+    color: cornsilk;
+    border-style: groove;
+}
+
+.calc {
+    padding: 10px;
+}
+
+button:hover {
+    background-color: cyan;
+    color: navy;
+}
+
+p {
+    font-size: 2rem;
+    padding: 5px;
+    color: darkred;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+.result {
+    font-size: 3.5rem;
+    color: black;
+    font-weight: bold;
+    font-family: "Times New Roman", sans-serif;
+}
